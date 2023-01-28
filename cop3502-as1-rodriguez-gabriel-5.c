@@ -1,6 +1,3 @@
-/*
-Gabriel Rodriguez
-PA1 Monster Assignment
 This is a program that reads in an input file of monsters, regions, trainers, and dynamically
 allocates memory for them. It then accesses that dynamically allocated memory to extract the
 necessary information, perform calculations, and print to an output file the names of the trainers,
