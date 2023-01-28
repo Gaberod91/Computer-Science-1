@@ -1,7 +1,4 @@
 /*
-Gabriel Rodriguez
-COP3502
-Assignment 3 Monster sorts
 This program is a program that uses 6 different sorting methods to sort n number of randomly
 generated monster structures. We used the bubble sort, quick sort, selection sort,
 insertion sort, merge sort, and merge-insertion sort methods. This template file is what contains
