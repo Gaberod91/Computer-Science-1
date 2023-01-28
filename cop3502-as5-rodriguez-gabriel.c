@@ -1,7 +1,4 @@
 /*
-Gabriel Rodriguez
-COP3502
-Assignment 5 Heapify
 This function reads from an input file and collects a total amount n of numbers and a value for
 each n number. It dynamically allocates memory for an array the size of the value from the input
 file and fills the elements of that array with the valeus from the input file. It recursively calls
