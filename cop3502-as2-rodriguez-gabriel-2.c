@@ -1,3 +1,4 @@
+/*
 This program is a program that reads from an input and dynamically allocates memory for failfish
 structs and failfish_queue structs and stores all the information read in from the file in these
 dynamically allocated structs. The program uses a circular doubly linked list to store the failfish
