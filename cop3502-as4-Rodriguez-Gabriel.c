@@ -1,7 +1,4 @@
 /*
-Gabriel Rodriguez
-COP3502
-Assignment 4 Binary Search Tree
 This program is a program that reads information from an input file and prints it to an output file.
 The information that is read in is used to dynamically allocate memory for a binary search tree. The
 program then reads in commands from the input file and manipulates the binary search tree with different
